@@ -1,4 +1,4 @@
-# 💻 🦕 🏞️ ☕️
+<img src="profile_pic.png" alt="drawing" width="300"/>
 
 Hello,
 My name is Akzhol, and I am a Software Engineer with over 8 years of experience, primarily focused on backend development and delivering robust, scalable solutions.
