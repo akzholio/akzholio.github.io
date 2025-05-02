@@ -1,11 +1,8 @@
-## Software ⎡Data⎦ Engineer
+# 💻 🦕 🏞️ ☕️
 
-Hello there 👋 
+Hello,
+My name is Akzhol, and I am a Software Engineer with over 8 years of experience, primarily focused on backend development and delivering robust, scalable solutions.
 
-My name is *Akzhol* and I am a **software engineer**, aspiring data, ML engineer.
+I am currently employed full-time as a Python Developer at [YouGov](today.yougov.com).
 
-I currently work full-time as a *Python Developer*. 
-
-In my free time I like to read science fiction, techno thrillers (my favorite author is Michael Crichton), 
-tinker with my RaspberryPi, print stuff on my 3D printer, attend data/ML related courses, slice and dice datasets of interest.
-
+Outside of work, I enjoy reading science fiction and techno-thrillers — with Michael Crichton being a favorite author. I also spend time exploring Raspberry Pi projects, 3D printing, and expanding my knowledge through data and machine learning courses. I have a strong interest in analyzing and experimenting with datasets that spark my curiosity.
