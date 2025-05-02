@@ -1,0 +1,6 @@
+.circular-image {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 300px;
+  height: 300px; /* Ensure it's a square for a perfect circle */
+}
